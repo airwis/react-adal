@@ -1,6 +1,6 @@
 // eslint-disable-next-line
 import React from 'react';
-import AuthenticationContext_ from './adal';
+import AuthenticationContext_ from 'adal-angular';
 
 export const AuthenticationContext = AuthenticationContext_;
 
